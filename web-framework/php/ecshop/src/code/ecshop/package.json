@@ -6,7 +6,7 @@
   "main": "index.js",
   "dependencies": {
     "autoprefixer": "^8.5.1",
-    "gulp": "^3.9.1",
+    "gulp": "^5.0.0",
     "plumber": "^0.4.8"
   },
   "devDependencies": {
